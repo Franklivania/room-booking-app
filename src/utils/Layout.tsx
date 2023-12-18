@@ -8,7 +8,7 @@ export default function Layout({children}: LayoutProps) {
     const { theme } = useTheme();
 
     return(
-        <main role="main" className={`w-screeen h-screen overflow-x-hidden ${theme === 'dark' ? '' : ''}`}>
+        <main role="main" className={`w-screeen h-screen overflow-x-hidden font-poppins ${theme === 'dark' ? '' : ''}`}>
             {children}
         </main>
     )

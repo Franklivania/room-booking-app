@@ -1,0 +1,52 @@
+[
+    {
+        "id": "small-room-double-bed",
+        "image": "./small/1.jpg",
+        "title": "Small Room with Double Beds",
+        "text": "Discover a cozy retreat in a small room featuring double beds, offering comfort and convenience for a restful stay. Despite its compact size, this thoughtfully designed space maximizes functionality and ensures a comfortable experience for guests. The room is tastefully furnished with two double beds, providing ample sleeping space without compromising on comfort. Clever storage solutions optimize the available area, allowing for a clutter-free environment. Decorative accents and soothing colors create a tranquil ambiance, enhancing relaxation and peacefulness. Whether you're traveling with a companion or require extra sleeping options, this small room with double beds provides a cozy haven where you can unwind and recharge",
+        "nightprice":  20000,
+        "weekprice":  120000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "small-room-modern-room",
+        "image": "./small/2.jpg",
+        "title": "Small Modern Room with Big Beds",
+        "text": "Experience the best of modern comfort in a small room with surprisingly spacious big beds. This ingeniously designed space combines contemporary style with ample sleeping space, ensuring a restful and rejuvenating stay. The room features generously sized beds that invite you to sink into their plush comfort after a long day. Despite its compact size, the room is smartly organized, maximizing every inch of space for optimal functionality. Sleek and minimalist furnishings create an uncluttered environment, while soft lighting adds warmth and coziness. Whether you're traveling solo or with a partner, this small modern room with big beds offers a haven of relaxation and a peaceful retreat.",
+        "nightprice":  30000,
+        "weekprice":  170000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "small-room-big-window",
+        "image": "./small/3.jpg",
+        "title": "Small Room with Big Window",
+        "text": "Escape to tranquility in a small room featuring a grand, oversized window. Bask in abundant natural light and relish the sense of spaciousness it brings.",
+        "nightprice":  30000,
+        "weekprice":  70000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "small-room-double-bed-wardrobe",
+        "image": "./small/4.jpg",
+        "title": "Small Room with big bed and wardrobe",
+        "text": "Experience luxury in a small room with a generously-sized bed and a spacious wardrobe. Maximize comfort and storage in this cozy retreat.",
+        "nightprice":  30000,
+        "weekprice":  70000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "small-room-white-finish-flowers",
+        "image": "./small/5.jpg",
+        "title": "Small Room with Flower and White finish",
+        "text": "Find solace in a small room adorned with floral accents and a clean white finish. Embrace the serenity of nature within a cozy space. ",
+        "nightprice":  25000,
+        "weekprice":  60000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    }
+]

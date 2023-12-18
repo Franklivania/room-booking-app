@@ -1098,6 +1098,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"atropos@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "atropos@npm:2.0.2"
+  checksum: a798d78396f967e822110a16ce7331542796348fbf2380590423c3ffd9ac169aa13e02ad2754481143cceaa59b46d92d2097006f887f6a18431d2f6baffd64b5
+  languageName: node
+  linkType: hard
+
 "autoprefixer@npm:^10.4.16":
   version: 10.4.16
   resolution: "autoprefixer@npm:10.4.16"
@@ -3006,6 +3013,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": "npm:^6.14.0"
     "@typescript-eslint/parser": "npm:^6.14.0"
     "@vitejs/plugin-react": "npm:^4.2.1"
+    atropos: "npm:^2.0.2"
     autoprefixer: "npm:^10.4.16"
     eslint: "npm:^8.55.0"
     eslint-plugin-react-hooks: "npm:^4.6.0"

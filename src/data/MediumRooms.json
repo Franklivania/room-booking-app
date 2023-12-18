@@ -1,0 +1,52 @@
+[
+    {
+        "id": "medium-room-brown-oak-finish",
+        "image": "./medium/1.avif",
+        "title": "Medium Room With Oak Furniture",
+        "text": "Discover timeless beauty in a medium-sized room adorned with elegant oak furniture. Experience the warmth and sophistication of this classic wood while enjoying a comfortable and stylish living space.",
+        "nightprice": 70000,
+        "weekprice": 460000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "medium-room-light-brown-white",
+        "image": "./medium/2.jpeg",
+        "title": "Medium Room with Plush Bed and Whitespace",
+        "text": "Unwind in a medium-sized room featuring a plush bed and a serene whitespace design. Embrace comfort and tranquility in this stylish and inviting space.",
+        "nightprice": 100000,
+        "weekprice": 680000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "medium-room-browm-white-office-look",
+        "image": "./medium/3.jpg",
+        "title": "Medium Room with Modern Furniture and Big Window",
+        "text": "Experience modern sophistication in a medium-sized room with sleek furniture and a large window, inviting abundant natural light and capturing breathtaking views. ",
+        "nightprice": 120000,
+        "weekprice": 830000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "medium-room-late-90's-style",
+        "image": "./medium/4.jpeg",
+        "title": "Medium Room Elaborate Window with Comfortable Bed",
+        "text": "Relish in a medium-sized room boasting an elaborate window that floods the space with natural light, while enjoying the comfort of a luxurious bed. A perfect blend of style and coziness awaits.",
+        "nightprice": 12000,
+        "weekprice": 830000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "medium-room-black-accent-white-comfort",
+        "image": "./medium/5.jpeg",
+        "title": "Modern Room with Black Accented Oak Furniture",
+        "text": "Immerse yourself in modern elegance with a room featuring sleek black accented oak furniture. The combination of contemporary design and rich wood tones creates a sophisticated and stylish ambiance.",
+        "nightprice": 110000,
+        "weekprice": 640000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    }
+]

@@ -4,8 +4,15 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+  mode: 'jit',
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        poppins: [
+          'Poppins', "san-serif",
+        ]
+      },
+    },
     colors: {
       'black': "rgba(5, 4, 1, 1)",
       'white': "rgba(255, 250, 255, 1)",

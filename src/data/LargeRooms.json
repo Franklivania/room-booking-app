@@ -1,0 +1,52 @@
+[
+    {
+        "id": "large-room-old-decor",
+        "image": "./large/1.jpg",
+        "title": "Old style Decor room with timeless upholestry",
+        "text": "Step back to the '80s with a modern twist! This room features brown upholstery, capturing the era's warmth. Retro geometric patterns on walls and sleek furniture create a fusion of vintage and contemporary style. Embrace nostalgia and sophistication in this unique space. ",
+        "nightprice":  80000,
+        "weekprice":  540000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "large-room-modern-office-like-decor",
+        "image": "./large/2.jpg",
+        "title": "Modern Style maxed comfort room",
+        "text": "Enter a spacious room with a modern office-like decor that exudes style and functionality. This large area is designed to inspire productivity and creativity, featuring sleek furniture, clean lines, and a minimalist aesthetic. Natural light floods the space, illuminating the contemporary elements and creating an open and inviting atmosphere. With ample room to work, collaborate, or relax, this office-inspired setting combines the best of professional and contemporary design. Embrace the modernity and efficiency of this large room with its office-like decor for a productive and inspiring environment.",
+        "nightprice":  100000,
+        "weekprice":  680000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "large-room-white-timeless-decor",
+        "image": "./large/3.jpg",
+        "title": "Timeless White room with modern design",
+        "text": "Step into a timeless white room adorned with a modern design that exudes elegance and sophistication. This pristine space captures the essence of contemporary aesthetics, featuring clean lines, minimalist furniture, and a monochromatic color scheme. The walls are bathed in a crisp white hue, creating a sense of serenity and expansiveness. Every element is carefully curated to maximize functionality and style, with sleek furniture and tasteful accents adding a touch of modernity. Natural light dances through large windows, enhancing the room's airy ambiance. Whether you seek a tranquil sanctuary or a backdrop for creative inspiration, this timeless white room with its modern design offers a haven of refined simplicity.",
+        "nightprice":  150000,
+        "weekprice":  1000000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "large-room-royal-arabian-decor",
+        "image": "./large/4.jpg",
+        "title": "Old Royal Arabian style room",
+        "text": "This majestic space transports you to a world of lavishness and exotic beauty. Ornate arches and intricate carvings adorn the walls, reflecting the rich architectural heritage of Arabian design. Luxurious fabrics in vibrant colors drape the furniture, exuding an air of regality and warmth. Delicate mosaic patterns embellish the floors, evoking a sense of artistry and craftsmanship. Soft, ambient lighting casts a warm glow, creating an enchanting atmosphere. Whether you seek to immerse yourself in Arabian culture or simply appreciate the allure of timeless elegance, this old royal Arabian-style room invites you to experience the splendor of a bygone era.",
+        "nightprice":  200000,
+        "weekprice":  1380000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    },
+    {
+        "id": "large-room-modern-room-decor",
+        "image": "./large/5.jpg",
+        "title": "Modern Room with Plush Finish",
+        "text": "Indulge in modern luxury with a room adorned in a plush finish. This sleek and sophisticated space combines contemporary design with sumptuous comfort. Every detail is carefully crafted to create an atmosphere of opulence and relaxation. The room boasts a minimalist aesthetic, with clean lines and uncluttered surfaces that enhance the sense of spaciousness. Soft, velvety textures in rich colors adorn the furniture and accessories, inviting you to sink into their embrace. The plush finish extends to the flooring, featuring thick, plush carpets that cushion every step. Warm, ambient lighting completes the ambiance, creating a cozy and inviting atmosphere. Whether you're seeking a haven for relaxation or hosting stylish gatherings, this modern room with its plush finish offers the perfect blend of comfort and elegance.",
+        "nightprice":  80000,
+        "weekprice":  540000,
+        "price": "Negotiable",
+        "link": "/checkout"
+    }
+]
